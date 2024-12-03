@@ -1,5 +1,11 @@
 # 💫 About Me:
-As a third-year college student, I have already accumulated a wealth of experience through four internships, each one honing my skills in front-end development. Currently, I am diving deeper into the world of React.js through my latest internship, working diligently to master the MERN stack.<br><br>My journey in tech is marked by a proactive approach to learning and growth. At Codess Cafe, I am a mentee actively engaging in a supportive community, drawing insights and knowledge from peers and mentors alike. This experience not only enhances my technical prowess but also underscores my commitment to staying industry-ready.<br><br>Beyond my internships, my passion for technology extends to self-learning AI/ML, as I am continually seeking out new challenges and opportunities to expand my expertise. I am also developing my backend skills through projects that utilize Flask, and I am exploring the vast realm of cloud computing.<br><br>Driven by an insatiable thirst for continuous learning, I aspire to further broaden my skill set, ensuring that I am well-equipped to tackle the ever-evolving landscape of technology. My dedication to front-end technologies, coupled with my commitment to comprehensive skill development, positions me as a dynamic and versatile individual ready to make significant contributions to the tech industry.
+Hi, I'm Yashna from India!  
+
+I’m a third-year CSE student passionate about Web Development and exploring Generative AI and app development.  
+
+Currently building projects with the MERN stack while diving into exciting new domains.  
+
+continuously expanding my skill set and taking on new challenges!✨
 
 
 ## 🌐 Socials:
