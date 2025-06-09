@@ -1,11 +1,9 @@
 # 💫 About Me:
-Hi, I'm Yashna from India!  
+Hi, I'm Yashna!
 
-I’m a third-year CSE student passionate about Web Development and exploring Generative AI and app development.  
-
-Currently building projects with the MERN stack while diving into exciting new domains.  
-
-continuously expanding my skill set and taking on new challenges!✨
+I'm a final-year Computer Science Engineering student passionate about AI/ML and Generative AI.
+Currently exploring cutting-edge models, building intelligent systems, and expanding my skills in the world of artificial intelligence.
+Driven by curiosity and a love for learning, I’m always up for exciting new challenges! ✨
 
 
 ## 🌐 Socials:
